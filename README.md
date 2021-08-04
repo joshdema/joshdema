@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @joshdema
 - 👀 I’m interested in A11y
 - 🌱 I’m currently learning WCAG
-- 💞️ I’m looking to collaborate on Accessibiltiy 
 - 📫 How to reach me joshua.dema@intopia.digital
 
 <!---
